@@ -1,4 +1,4 @@
-### Yeni bir console uygulaması açarak telefon rehberi uygulaması yazınız. Uygulamada olması gereken özellikler aşağıdaki gibidir.
+### Telefon rehberi uygulaması. Uygulamanın sahip olduğu özellikler aşağıdaki gibidir.
 
 1- Telefon Numarası Kaydet
 2- Telefon Numarası Sil
@@ -6,4 +6,4 @@
 4- Rehber Listeleme (A-Z, Z-A seçimli)
 5- Rehberde Arama
 
-varsayılan olarak  kişi bulunmaktadır
+varsayılan olarak 5 kişi bulunmaktadır
